@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FitnessStudios</string>
+
+    <string name="ok">OK</string>
+    <string name="details">Details</string>
+    <string name="call_business">Call business</string>
+    <string name="nothing_to_show">Nothing to show</string>
+    <string name="location_permission_needed">"Location Permission Needed"</string>
+    <string name="location_rationale_message">This app needs the Location permission, please accept to use location functionality</string>
+</resources>
